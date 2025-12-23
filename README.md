@@ -15,6 +15,7 @@
 
 ## 📋 เกี่ยวกับโปรเจค
 
+<<<<<<< HEAD
 **Ayema5kon** เป็นแพลตฟอร์ม E-Commerce สำหรับซื้อขาย Game CD Keys พัฒนาด้วย React + Vite สำหรับ Frontend และ Node.js + Express สำหรับ Backend
 
 ### ✨ Features
@@ -133,3 +134,12 @@ This project is for educational purposes.
 Made with ❤️ by **Ayema5kon Team**
 
 </div>
+=======
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Contributors / ผู้ร่วมพัฒนา
+- [@WISHERCARTs](https://github.com/WISHERCARTs)
+- [@Waiproness](https://github.com/Waiproness)
+- [@SugguSCH](https://github.com/SugguSCH)
+- [@Saksit](https://github.com/Saksit-Jittasopee)
+>>>>>>> f6f0fae6f6eae9c1e93ab18fd042777e18df3af9
