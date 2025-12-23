@@ -17,6 +17,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Contributors / ผู้ร่วมพัฒนา
 - [@WISHERCARTs](https://github.com/WISHERCARTs)
-- [@[Waiproness](https://github.com/Waiproness)
-- [@AnotherFriend](https://github.com/AnotherFriend)
-- [@AnotherFriend](https://github.com/AnotherFriend)
+- [@Waiproness](https://github.com/Waiproness)
+- [@SugguSCH](https://github.com/SugguSCH)]
+- [@Saksit](https://github.com/Saksit-Jittasopee)]
