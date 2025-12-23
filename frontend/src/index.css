@@ -1,0 +1,20 @@
+/* src/index.css */
+@import "tailwindcss";           /* โหลด tailwind ทั้งชุด ให้ใช้ utility class ในทุก component ได้ */
+
+/* global style */
+body {
+  margin: 0;                    /* ลบ margin ค่า default ของ browser ออก ให้ layout คุมได้เอง */
+  /* ถ้าชอบพื้นหลังฟ้าเดิมก็ใช้ lightblue ต่อได้ */
+  background-color: #020617;    /* เซ็ตสีพื้นหลังหลักทั้งเว็บ (โทนเข้ม) */
+}
+
+/* ตัวอย่าง custom css สำหรับหน้า ErrorPayment */
+.wish-page {
+  /* สามารถใส่ background พิเศษได้ */
+  background-color: #1a1a1a;    /* สีพื้นหลังเฉพาะหน้า ErrorPayment กันพื้นหลังซ้อนกับของ body */
+}
+
+.wish-page h1 {
+  color: white;                 /* บังคับ h1 ในหน้า ErrorPayment ให้เป็นสีขาว อ่านง่ายบนพื้นหลังเข้ม */
+  text-align: center;           /* จัดหัวข้อ h1 ตรงกลางในหน้า ErrorPayment */
+}
