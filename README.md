@@ -124,7 +124,7 @@ Backend:  http://localhost:3000
 
 ---
 
-## 📄 License
+## 📄 License 
 
 This project is for educational purposes.
 
